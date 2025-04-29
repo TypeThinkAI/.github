@@ -1,6 +1,6 @@
 ## TypeThinkAI: Simplify Your AI Workflow
 
-[TypeThinkAI](https://typethinkai.com/) is a powerful platform that lets you access and compare hundreds of AI models from a single interface. Whether you're a content creator, developer, or just curious about AI, it simplifies how you interact with AI tools.
+[TypeThinkAI](https://typethink.ai/) is a powerful platform that lets you access and compare hundreds of AI models from a single interface. Whether you're a content creator, developer, or just curious about AI, it simplifies how you interact with AI tools.
 
 ## Key Features
 
